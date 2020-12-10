@@ -1,0 +1,23 @@
+{
+  "id": "2258016",
+  "name": "mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2066005",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "2078817",
+      "name": "dkw_消息 ",
+      "font_class": "dkw_xiaoxi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}
